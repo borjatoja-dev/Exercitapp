@@ -1,0 +1,24 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Icono simple: un brazo flexionando (emoji style) -->
+    <group android:scaleX="0.5"
+        android:scaleY="0.5"
+        android:translateX="27"
+        android:translateY="27">
+        
+        <!-- Brazo -->
+        <path
+            android:fillColor="#FACC15"
+            android:pathData="M54,30 C45,30 40,35 40,45 L40,60 C40,65 35,70 30,70 C25,70 20,65 20,60 L20,50 C20,40 25,30 35,25 C45,20 60,20 70,25 C80,30 85,40 85,50 L85,65 C85,75 80,85 70,90 C60,95 50,95 40,90"/>
+        
+        <!-- Mano/puño -->
+        <path
+            android:fillColor="#FACC15"
+            android:pathData="M30,60 m-8,0 a8,8 0 1,0 16,0 a8,8 0 1,0 -16,0"/>
+            
+    </group>
+</vector>
