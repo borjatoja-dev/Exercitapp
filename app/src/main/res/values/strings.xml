@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Transformación Física</string>
+    <string name="comeza">COMEZA</string>
+    <string name="empezar_adestramento">▶ EMPEZAR ADESTRAMENTO</string>
+    <string name="preparate">Prepárate...</string>
+    <string name="descansa">💨 DESCANSA</string>
+    <string name="segundos">segundos</string>
+    <string name="segundos_movemento">segundos de movemento</string>
+    <string name="rolda">Rolda</string>
+    <string name="exercicio">Ejercicio</string>
+    <string name="seguinte">Seguinte</string>
+    <string name="ultimo_exercicio">🏁 Último exercicio da rolda!</string>
+    <string name="volver_inicio">🔁 Volver ao inicio</string>
+    <string name="sesions_completadas">✅ Sesións completadas</string>
+    <string name="minutos_totais">⏱ Minutos totais</string>
+    <string name="progreso_acumulado">📈 Progreso acumulado</string>
+    <string name="meta_minutos">Meta: 300 minutos (20 sesións)</string>
+    <string name="dia">Día</string>
+    <string name="total_acumulado">Total acumulado</string>
+    <string name="min">min</string>
+    <string name="non_penses">Non penses. Só preme. O primeiro movemento é o máis difícil.</string>
+    <string name="adestramento_15min">Adestramento 15 min</string>
+    
+    <!-- Medallas -->
+    <string name="medal_1_desc">1ª vez</string>
+    <string name="medal_3_desc">3 días</string>
+    <string name="medal_7_desc">1 semana</string>
+    <string name="medal_14_desc">2 semanas</string>
+    <string name="medal_30_desc">1 mes</string>
+    <string name="medal_60_desc">2 meses</string>
+    
+    <!-- Frases motivacionais -->
+    <string name="phrase_1">🚀 Levántaste o cu. Iso é máis do que fai o 80% da xente.</string>
+    <string name="phrase_2">⚡ Un paso cada día. Hoxe gañáchelle á preguiza.</string>
+    <string name="phrase_3">🏆 Non se trata de ser o mellor, trátase de ser mellor que onte.</string>
+    <string name="phrase_4">🧠 O teu corpo escoita todo o que di a túa mente. Hoxe dixeches \'si\'.</string>
+    <string name="phrase_5">💥 15 minutos que cambiarán as túas próximas 24 horas.</string>
+    <string name="phrase_6">🌱 A constancia non é perfección. É volver a intentalo.</string>
+</resources>
