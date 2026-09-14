@@ -1,42 +1,5 @@
 ```
-# Gradle
-.gradle/
-!gradle/wrapper/gradle-wrapper.jar
-
-# Build results
-build/
-dist/
-target/
-
-# IDE
-.vscode/
-.idea/
-
-# Logs
-*.log
-
-# Environment
-.env
-.env.local
-*.env.*
-
-# Python
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-.Python
-venv/
-.venv/
-.env
-
-# Node.js
-node_modules/
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# Compiled files
+# Compiled and build artifacts
 *.class
 *.o
 *.obj
@@ -45,8 +8,33 @@ yarn-error.log*
 *.dll
 *.exe
 *.out
+build/
+dist/
 
-# Compression
+# Dependencies
+.gradle/
+target/
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# Environment
+.env
+.env.local
+*.env.*
+
+# Editors
+.vscode/
+.idea/
+
+# Coverage reports
+coverage/
+htmlcov/
+.coverage
+
+# Compression files
 *.zip
 *.gz
 *.tar
@@ -65,27 +53,8 @@ yarn-error.log*
 *.Z
 *.lz
 *.lzo
-
-# Coverage
-coverage/
-htmlcov/
-.coverage
-
-# Temp files
-*.tmp
-*.swp
-*.swo
-
-# OS
-.DS_Store
-Thumbs.db
-
-# MyPy
-.mypy_cache/
-
-# PyTest
-.pytest_cache/
-
-# Git
-.git/
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+*.tar.zst
 ```
